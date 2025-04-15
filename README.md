@@ -1,7 +1,7 @@
 - A page for the MYBike website was developed. The site specialises in selling bicycles.
 
 - The site was developed according to the layout: (https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=41317-96&t=x7ZvE8YTsqLgZDQB-0).
-- [DEMO LINK](https://R-Ohirok.github.io/layout_landing-page/).
+- [DEMO LINK](https://r-ohirok.github.io/my-bike_landing/).
 
 - It was developed using HTML and CSS technologies.
 - The solution was implemented using BEM, SASS methodologies.
